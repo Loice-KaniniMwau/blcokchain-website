@@ -1,0 +1,286 @@
+.landingpage{
+    display: flex;
+    gap: 100px;
+}
+/* .body{
+    background-image: url(./images/bitcoin1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.body{
+    background-color: lightblue;
+}
+#ethereum{
+    width:50px ;
+    height:40px ;
+}
+#connect{
+    /* border-radius: 10%; */
+    /* border-style: none; */
+    padding-top: 15%;
+    padding-left: 25%;
+    padding-bottom: 15%;
+    padding-right: 25%;
+    width: 160%;
+   border-color: lightgreen;
+   background-color: lightgreen;
+   color: white;
+}
+#trusted,
+#trusted1{
+    font-size: xx-large;
+}
+#secure{
+    color: lightgreen;
+}
+#trusted1{
+    color: lightblue;
+}
+.assetss{
+    background-color: #343a40;
+}
+#started{
+    
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-style: none;
+    background-color: rgb(93, 199, 93);
+color: black;
+margin-bottom: 10%;
+   
+}
+
+.portfolio{
+    display: flex;
+}
+.app{
+    width: 40%;
+    height: 30%;
+}
+#app1{
+
+    width: 200px;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 32%;
+    padding: 10px 30px 10px 30px ;
+
+}
+.trading{
+    padding: 4% 4% 4% 4%;
+    background-color:rgb(57, 54, 54);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+#app2{
+    width: 200px;
+height: 50px;
+margin-bottom: 30px;
+border-radius: 32%;
+
+}
+.walletmobile{
+    margin-right: 50px;
+}
+#laces{
+    font-family: 'Dancing Script', cursive; 
+}
+#hdk{
+    font-family: 'Dancing Script', cursive;
+}
+#porctime{
+font-family: 'Dancing Script', cursive;
+}
+.invest{
+    display: flex;
+}
+.footer{
+    display: flex;
+    gap:15%;
+    /* background-color: #a9e34b; */
+    background-color: black;
+    padding: 3% 3% 3% 3%;
+    /* width: 100%; */
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+}
+#email
+{
+    border-radius: 15%;
+    border-style: none;
+   padding-left: 5%;
+   /* padding-right: 5px; */
+   padding-top: 10px;
+   padding-bottom: 10px;
+   width: 38%;
+
+}
+#send
+{
+    border-radius: 50px;
+    border-style: none;
+    padding-left: 10%;
+   padding-right: 5%;
+   padding-top: 10px;
+   padding-bottom: 10px;
+    background-color: rgb(17, 229, 17);
+    width: 100px;
+    margin-left: 20px;
+}
+.viewmore{
+    display: flex;
+    gap:30%;
+}
+.price{
+    display: flex;
+    gap: 20%;
+}
+#icon1,
+#icon2,
+
+#icon3{
+
+    width: 20%;
+    height: 40%;
+}
+
+
+#icon6{
+    width: 2%;
+    height: 10%;
+}
+#icon4,
+#icon5{
+
+    width: 20px;
+    height: 20px;
+}
+#icon7{
+    width: 20px;
+}
+.easypayment
+
+{
+    background-color: #343a40;
+    width: 20%;
+    padding: 3% 3% 3% 3%;
+    border-radius: 10%;
+    margin-bottom: 12%;
+    margin-top: 12%;
+}
+.ecosystem{
+    background-color: #343a40;
+    width: 20%;
+    padding: 3% 3% 3% 3%;
+    border-radius: 10%;
+}
+#easy,
+#eco,
+#vault{
+    background-color: #343a40;
+    width: 20%;
+    height:10% ;
+    
+}
+.vaults{
+    float: left;
+    margin-top: -30%;
+    background-color: #343a40;
+    padding: 1% 12% 0% 12%;
+    width: 20%;
+    /* margin-right: 440%; */
+    margin-left: -80%;
+
+    border-radius: 10%;
+    
+    
+    
+}
+.bestfeatured{
+   margin-top: -30%;
+   margin-left: -30%;
+}
+#crypto{
+    gap: 40%;
+    margin-right: 20%;
+}
+#phone1,
+#phone2{
+    width:300px ;
+    height: 450px;
+    /* margin-left: 0%;
+    margin-right: 0%; */
+    border-radius: 10%;
+}
+#trade{
+   
+   padding:3% 7% 3% 7%; 
+   border-style: none;
+   background-color: hwb(120 23% 5%);
+
+}
+#secure1{
+    color: rgb(10, 242, 10);
+    font-size: x-large;
+}
+.phone1{
+    margin-right: 10%;
+}
+.phone2{
+    margin-top: 10%;
+}
+#explore{
+    padding:3% 7% 3% 7%; 
+    background-color: black;
+    color: rgb(26, 230, 26);
+    border-color: hwb(120 23% 5%);
+}
+#bit{
+    float: right;
+    
+}
+.allimages{
+    display: flex;
+}
+.map{
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100%;
+   width: 100%;
+   border-radius: 400%;
+  
+  
+}
+.Map{
+    margin-top: 3%;
+    gap: 5%;
+}
+.mymap{
+    gap: 10%;
+}
+#eye{
+    width: 5%;
+    height: 5%;
+}
+.Map{
+    display: flex;
+}
+.best{
+    float: right;
+    margin-top: -30%;
+}
+.overall{
+    margin-bottom: 10%;
+}
+@media(max-width:800px){
+
+}
+
+
+
+
